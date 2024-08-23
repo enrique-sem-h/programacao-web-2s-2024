@@ -4,7 +4,7 @@ let n2 = 5;
 let result = n1 + n2;
 console.log(`Resultado da adicao entre ${n1} e ${n2} = ${result}`);
 
-// subtracao
+// subtracao 
 let n1Sub = 6;
 let n2Sub = 5;
 let resultSub = n1Sub - n2Sub;
